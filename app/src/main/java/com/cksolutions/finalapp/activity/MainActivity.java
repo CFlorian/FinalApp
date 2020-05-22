@@ -1,4 +1,4 @@
-package com.cksolutions.finalapp;
+package com.cksolutions.finalapp.activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -8,6 +8,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
+import com.cksolutions.finalapp.R;
 import com.cksolutions.finalapp.activity.IngresarColorActivity;
 import com.cksolutions.finalapp.activity.VerColorActivity;
 
