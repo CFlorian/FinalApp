@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FinalApp</string>
+    <string name="ver_color">Ver color</string>
+    <string name="ingresar_color">Ingresar Color</string>
+    <string name="rojo">Rojo</string>
+    <string name="verde">Verde</string>
+    <string name="azul">Azul</string>
+    <string name="nombre">Nombre</string>
+    <string name="grabar">Grabar</string>
+</resources>
